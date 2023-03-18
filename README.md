@@ -23,7 +23,5 @@ Group Number:
 Group Members:
 
 S.M. Toufique #19201141
-
 Arman Zaman #19201005
-
 SK Rubayet Bin Mujahid #19241009
