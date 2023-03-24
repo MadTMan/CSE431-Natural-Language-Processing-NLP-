@@ -3,7 +3,8 @@ Link to unlisted YouTube video: https://youtu.be/sCwolHljDv0
 
 
 Two public links to the Concept Map (anyone on the internet can view without login):
-PDF:  
+
+PDF: https://github.com/MadTMan/CSE431-Natural-Language-Processing-NLP-/blob/main/Submission%203/Concept%20Map.drawio.pdf
 
 Native/original format: https://drive.google.com/file/d/1Q0joc5llY5O466_PzmTEFnxR-5yuMlT2/view?usp=sharing
 
